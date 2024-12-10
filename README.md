@@ -2,6 +2,10 @@
 
 Tic Tac Toe adalah permainan klasik yang dimainkan oleh dua pemain. Pemain bergiliran menandai sel dalam grid 3x3 dengan simbol X atau O. Pemain yang berhasil menempatkan tiga simbol mereka dalam satu baris, kolom, atau diagonal terlebih dahulu akan menang. 🏆
 
+<p align="center">
+  <img src="img/tictactoe_html.jpg" alt="Screenshot Game tactactoe">
+</p>
+
 ## Fitur ✨
 
 - Dua pemain dapat bermain secara bergiliran. 👥
@@ -23,7 +27,7 @@ Tic Tac Toe adalah permainan klasik yang dimainkan oleh dua pemain. Pemain bergi
 
 1. **Clone repositori ini**:
    ```bash
-   git clone https://github.com/sulqwerty/repo-name.git
+   git clone https://github.com/Sulqwerty/Tic-Tac-Toe
    ```
 
 2. **Buka file `tic_tac_toe.html`** di browser Anda:
@@ -35,7 +39,7 @@ Tic Tac Toe adalah permainan klasik yang dimainkan oleh dua pemain. Pemain bergi
 
 2. **Clone repositori ini** (jika belum):
    ```bash
-   git clone https://github.com/sulqwerty/repo-name.git
+   git clone https://github.com/Sulqwerty/Tic-Tac-Toe
    ```
 
 3. **Navigasi ke direktori proyek**:
@@ -47,6 +51,7 @@ Tic Tac Toe adalah permainan klasik yang dimainkan oleh dua pemain. Pemain bergi
    ```bash
    node tic_tac_toe-cli.js
    ```
+![Screenshot Game Tic-Tac-Toe](img/tictactoe_cli.jpg)
 
 ## Cara Bermain 🎉
 
